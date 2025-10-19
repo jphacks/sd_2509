@@ -2,7 +2,7 @@
 
 ![IMAGE ALT TEXT HERE](./fig/thumbnail_1.png)
 
-[デモ動画(カットを施してあります)](https://www.canva.com/design/DAG2PcDlztk/W40GwpLl-baQLwCdqJBClg/watch?utm_content=D[…]hare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d7827f6fb)
+[デモ動画(カットを施してあります)](https://www.youtube.com/shorts/TDLX0RF_C0c)
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
