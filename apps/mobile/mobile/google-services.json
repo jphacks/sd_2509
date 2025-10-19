@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986914653855",
+    "project_id": "mobile-koiwa",
+    "storage_bucket": "mobile-koiwa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986914653855:android:0ed7129cdd169998ed44aa",
+        "android_client_info": {
+          "package_name": "com.koiwa.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaphQ_0yVL0EFI0e4j-8Q4zO3WH-6HQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

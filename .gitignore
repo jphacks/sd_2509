@@ -5,3 +5,12 @@ pyproject.toml
 uv.lock
 .python-version
 db/
+*/*.vscode*
+.vscode*
+*/*.env*
+.env*
+*/*.config*
+.config*
+
+
+
