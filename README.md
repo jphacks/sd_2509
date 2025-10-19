@@ -2,8 +2,12 @@
 
 ![IMAGE ALT TEXT HERE](./fig/thumbnail_1.png)
 
-[デモ動画(カットを施してあります)](https://www.youtube.com/shorts/TDLX0RF_C0c) <br>
-[![alt text](https://www.youtube.com/shorts/TDLX0RF_C0c/0.jpg)](https://www.youtube.com/shorts/TDLX0RF_C0c "title")
+デモ動画(カットを施してあります)
+
+https://github.com/user-attachments/assets/a7af2c6b-8005-4c95-8886-4a7dd86cbb76
+
+[YouTube_link](https://www.youtube.com/shorts/TDLX0RF_C0c "title")
+
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
