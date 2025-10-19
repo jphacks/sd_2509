@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+chat/session_logs/
+.config/
+response*.mp3
+test_audio.wav
+test_audio.aiff
