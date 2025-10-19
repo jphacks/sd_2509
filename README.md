@@ -2,6 +2,8 @@
 
 ![IMAGE ALT TEXT HERE](./fig/thumbnail_1.png)
 
+[デモ動画](https://www.canva.com/design/DAG2PcDlztk/W40GwpLl-baQLwCdqJBClg/watch?utm_content=D[…]hare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d7827f6fb)
+
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
 タスク管理アプリは数多く存在しますが、「入力が面倒」「通知を見逃す」「結局使わなくなる」という問題があります。特に、ToDoリストを開いて入力する行為自体がハードルとなり、タスク管理が続かない人が多くいます。
