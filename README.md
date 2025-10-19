@@ -2,10 +2,11 @@
 
 ![IMAGE ALT TEXT HERE](./fig/thumbnail_1.png)
 
-デモ動画（カットを施してあります・デフォルトでは音声がオフになっています） <br>
+デモ動画（カットを施してあります・デフォルトでは音声がオフになっています） 
+
 https://github.com/user-attachments/assets/a7af2c6b-8005-4c95-8886-4a7dd86cbb76
 
-[YouTube_link](https://www.youtube.com/shorts/TDLX0RF_C0c "title")
+[YouTube_link](https://www.youtube.com/shorts/TDLX0RF_C0c "やらなオカン！")
 
 
 ## 製品概要
